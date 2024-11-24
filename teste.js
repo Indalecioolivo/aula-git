@@ -1,1 +1,1 @@
-const teste = [1, 2, 3];
+const numero = [1, 2, 3];
